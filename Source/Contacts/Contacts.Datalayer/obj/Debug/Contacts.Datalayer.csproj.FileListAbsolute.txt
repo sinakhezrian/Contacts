@@ -1,0 +1,13 @@
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\Contacts.Datalayer.dll.config
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\Contacts.Datalayer.dll
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\Contacts.Datalayer.pdb
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\EntityFramework.dll
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\EntityFramework.xml
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.Datalayer.csproj.CoreCompileInputs.cache
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.Datalayer.csproj.CopyComplete
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.Datalayer.dll
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.Datalayer.pdb
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.DataLayer.Migrations.InitialDatabase.resources
+D:\lss\برنامه سازی پیشرفته\project\Contacts\Contacts.Datalayer\obj\Debug\Contacts.Datalayer.csproj.GenerateResource.cache
