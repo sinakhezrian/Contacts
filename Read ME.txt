@@ -6,3 +6,5 @@
 ~ change sql server connection string in (Contacts\Contacts.Datalayer\Context.cs), later re Run EXE file for create automatic database
 
 ~ error 40 = sqlserver serivce not found or sqlserver not install or sqlserver Instance name != MSSQLSERVER(local)
+
+-- created by : sina khezryan (سینا خضریان) & mehdi ghorbani (مهدی قربانی)
